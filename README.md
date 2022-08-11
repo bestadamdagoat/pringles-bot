@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![Pringles Bot Logo](https://i.imgur.com/9o0hyRz.png)
+# ![Pringles Bot Logo](https://github.com/bestadamdagoat/pringles-bot/blob/main/pringlebot.png?raw=true)
 
 ## A bot that will give you free pringles, poorly coded in Python using Selenium and AntiCaptcha. If Steve Cahillane sees this, expect this repository to go down. If this bot surprisingly worked for you, it would be cool if you [donated](https://en.liberapay.com/bestadam/) to me. It would convince me to code better and actually be more commited to these projects (cause who doesn't like money???).
 <img alt="GitHub" src="https://img.shields.io/github/license/bestadamdagoat/pringles-bot"> ![Website](https://img.shields.io/website?label=pringles%20site&url=https%3A%2F%2Fpringlessweepstakes.com) ![Liberapay receiving](https://img.shields.io/liberapay/receives/bestadam) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/selenium) ![GitHub issues](https://img.shields.io/github/issues/bestadamdagoat/pringles-bot)
