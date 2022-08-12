@@ -40,7 +40,7 @@ def bot():
     play = driver.find_element(by=By.ID, value="formButton")
     play.click()
     ##
-    WebDriverWait(driver, 15).until(EC.url_changes('https://pringlessweepstakes.com/'))
+    WebDriverWait(driver, 120000).until(EC.url_changes('https://pringlessweepstakes.com/'))
     ##
     driver.get("https://pringlessweepstakes.com/final.php")
     print("Finished Attempt")
