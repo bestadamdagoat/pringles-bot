@@ -49,3 +49,8 @@ NOTE: Make sure you have any version of Chrome 104 installed (unless you manuall
      - Your catchall is your domain (ex. github.com) not a full email (like adam@github.com).
 7. You are now ready to run the bot!
      - Make sure to agree to cookies when running the bot.
+
+## COMMON ISSUES + FIXES
+NOTE: This will not always be up to date, and I will not add uncommon issues to this list. If you want an up-to-date list of fixes, click [here](https://github.com/bestadamdagoat/pringles-bot/issues?q=is%3Aissue+is%3Aclosed).
+
+- from unknown error: cannot read manifest https://github.com/bestadamdagoat/pringles-bot/issues/10
