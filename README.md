@@ -21,7 +21,7 @@ You will **NOT** win every time when using this bot, be patient.
 
 The Pringle links will go to your email/catchall.
 
-You are free to modify the code in any way you want, but if you do PLEASE make a PR.
+You are free to modify the code in any way you want, but if you do PLEASE make a fork.
 
 ## UPCOMING FEATURES:
 NOTE: I probably won't implement these unless this promotion gets extended or revived (after the end of it). If you want to see the latest planned features/progress on them, go to the Issues tab and sort by the tag [enhancement](https://github.com/bestadamdagoat/pringles-bot/labels/enhancement). 
