@@ -32,6 +32,7 @@ NOTE: I probably won't implement these unless this promotion gets extended or re
 - Use different captcha system https://github.com/bestadamdagoat/pringles-bot/issues/4
 - Track the Wins/Losses https://github.com/bestadamdagoat/pringles-bot/issues/5
 - Send info to a Discord Webhook https://github.com/bestadamdagoat/pringles-bot/issues/6
+- DeprecationWarning Fix https://github.com/bestadamdagoat/pringles-bot/issues/8
 
 ## HOW TO USE THE BOT:
 NOTE: Make sure you have any version of Chrome 104 installed (unless you manually upgraded chromedriver.exe). You can do this by going to chrome://version.
