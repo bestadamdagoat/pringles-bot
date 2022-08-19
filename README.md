@@ -1,5 +1,7 @@
 <div align="center">
 
+# ARCHIVED: The Pringles Promotion is over :(
+
 # ![Pringles Bot Logo](https://github.com/bestadamdagoat/pringles-bot/blob/main/pringlebot.png?raw=true)
 
 ## A bot that will give you free pringles, poorly coded in Python using Selenium and AntiCaptcha. If Steve Cahillane sees this, expect this repository to go down. If this bot surprisingly worked for you, it would be cool if you donated to me. It would convince me to code better and actually be more commited to these projects. Check the sidebar for ways to donate to me.
